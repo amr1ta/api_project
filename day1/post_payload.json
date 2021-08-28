@@ -1,0 +1,23 @@
+{
+    "id": 100,
+    "name": "Amrita Mahapatra",
+    "username": "tester",
+    "email": "amrita.mahapatra@xyz.com",
+    "address": {
+        "street": "9th cross Layout",
+        "suite": "Apt. 556",
+        "city": "BAngalore",
+        "zipcode": "560001",
+        "geo": {
+            "lat": "12.3113",
+            "lng": "40.1496"
+        }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "apitesting.org",
+    "company": {
+        "name": "ABB",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+    }
+}
